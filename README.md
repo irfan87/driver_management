@@ -17,4 +17,4 @@ This project was developed with Django Rest Framework (DRF). It is a simple proj
 
    - python manage.py runserver
 
-4. Navigate to the http://localhost:8000/, and you will get the see the list of the drivers and vehicles link.
+4. Navigate to the http://localhost:8000/, and you will get the list of the drivers and vehicles link.
