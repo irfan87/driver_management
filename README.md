@@ -13,8 +13,14 @@ This project was developed with Django Rest Framework (DRF). It is a simple proj
 
    - pip install -r requirements.txt
 
-3. Then, run the server as below
+3. Migrate
+
+   - python manage.py migrate
+
+     - Note: If you have the problems, just enter python manage.py makemigrations and then migrate again.
+
+4. Then, run the server as below
 
    - python manage.py runserver
 
-4. Navigate to the http://localhost:8000/, and you will get the list of the drivers and vehicles link.
+5. Navigate to the http://localhost:8000/, and you will get the list of the drivers and vehicles link.
